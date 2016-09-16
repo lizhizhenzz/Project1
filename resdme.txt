@@ -1,2 +1,3 @@
 first commit finish
 Add somecode from Ronn
+Ronn add some new string 
