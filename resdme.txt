@@ -1,2 +1,7 @@
 first commit finish
+<<<<<<< HEAD
 Add somecode from Ronn--change by zz
+=======
+Add somecode from Ronn
+Ronn add some new string 
+>>>>>>> f932965d8f4a26c9d752bf7e1ea333b9cd851d44
